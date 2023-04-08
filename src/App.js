@@ -1,12 +1,11 @@
-import './App.css';
-import ProductTable from './ProductTable';
+import "./App.css";
+import ProductTable from "./ProductTable";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ProductTable/>
-        
+        <ProductTable />
       </header>
     </div>
   );
